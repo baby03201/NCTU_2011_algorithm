@@ -1,0 +1,15 @@
+path weight	: 6
+path		: 1-2-3-4-5-6
+
+path weight	: 5
+path		: 3-4-5-1-2
+
+path weight	: 6
+path		: 7-5-1-2-3-4
+
+no path from 4 to 7
+
+path weight	: 4
+path		: 3-4-5-6
+
+no path from 6 to 4
